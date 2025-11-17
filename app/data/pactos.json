@@ -1,0 +1,59 @@
+{
+  "pactos": [
+    {
+      "id": "A",
+      "nombre": "Partido Ecologista Verde",
+      "partidos": ["PEV"]
+    },
+    {
+      "id": "B",
+      "nombre": "Verdes, Regionalistas y Humanistas (FRVS, AH)",
+      "partidos": ["FRVS", "AH"]
+    },
+    {
+      "id": "C",
+      "nombre": "Unidad por Chile (FA, PS, DC, PPD, PL, PR, PC)",
+      "partidos": ["FA", "PS", "DC", "PPD", "PL", "PR", "PC"]
+    },
+    {
+      "id": "D",
+      "nombre": "Izquierda Ecologista Popular Animalista y Humanista",
+      "partidos": ["IEPA", "H"]
+    },
+    {
+      "id": "E",
+      "nombre": "Movimiento Amarillos por Chile",
+      "partidos": ["AM"]
+    },
+    {
+      "id": "F",
+      "nombre": "Partido de Trabajadores Revolucionarios",
+      "partidos": ["PTR"]
+    },
+    {
+      "id": "G",
+      "nombre": "Partido Alianza Verde Popular",
+      "partidos": ["PAVP"]
+    },
+    {
+      "id": "H",
+      "nombre": "Popular",
+      "partidos": ["POP"]
+    },
+    {
+      "id": "I",
+      "nombre": "Partido de la Gente",
+      "partidos": ["PDG"]
+    },
+    {
+      "id": "J",
+      "nombre": "Chile Grande y Unido (UDI, RN, Evópoli, Demócratas)",
+      "partidos": ["UDI", "RN", "EVO", "DEM"]
+    },
+    {
+      "id": "K",
+      "nombre": "Cambio por Chile (PSC, PNL, REP)",
+      "partidos": ["PSC", "PNL", "REP"]
+    }
+  ]
+}
